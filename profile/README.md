@@ -11,7 +11,7 @@ Codexary writes computer science and software engineering books for readers who 
 
 Knowing the ideas is not the same as building with them. Where a subject is about building systems, it also gets an engineering volume with a simulated case: a product team at a fictional company takes a real system from an empty repository to a release, and the chapters follow the team as each need appears, such as a ticket sale that overloads the service, a buyer charged twice, a security review or an alert after a release. The team's repositories are published here with what a working team leaves behind besides the code: requirements and design decisions, API contracts, pull requests and reviews, tests and CI, runbooks, failure drills and tagged releases. Every command and output in the book can be rerun from them.
 
-The company is Elsworne, a long-established software company with several product lines. Its history runs from boxed accounting software through client-server and web products to software as a service, so different books can show how engineering practice changed over time. Each product has its own team: the product and operations people who bring the needs, the engineers who own the services, and the platform, security and data teams they work with.
+The company is Elsworne, a fictional software company that has been around for decades and has several product lines. Its history runs from boxed accounting software through client-server and web products to software as a service, so different books can show how engineering practice changed over time. Each product has its own team: the product and operations people who bring the needs, the engineers who own the services, and the platform, security and data teams they work with. Elsworne, its products and its people are all made up; the names in commit history and code review belong to these fictional team members.
 
 ### 关于 Codexary
 
@@ -19,7 +19,7 @@ Codexary 编写计算机科学与软件工程方面的书，写给刚接触一�
 
 懂得原理不等于会用它做东西。凡是讲构建系统的学科，还会有一本工程册，配一个仿真案例：虚构公司的一支产品团队，把一个真实系统从空仓库做到正式发布，各章跟着团队遇到的实际需求往前走，例如开售时服务被挤垮、买家被重复扣款、安全审查、发布后收到告警。团队的仓库就公开在这里，除了代码，还有真实团队会留下的东西：需求与设计决策、API 契约、拉取请求与评审、测试与 CI、运维手册、故障演练和带标签的发布。书里的每条命令和每段输出都能在这些仓库上重新运行。
 
-这家公司叫 Elsworne，是一家历史悠久、有多条产品线的软件公司。它从盒装会计软件起家，经历客户端/服务器和 Web 产品，再到软件即服务，不同的书可以借它展示工程实践怎样一路变化。每款产品都有自己的团队：提出需求的产品和运营人员，负责各个服务的工程师，以及与他们协作的平台、安全和数据团队。
+这家公司叫 Elsworne，是一家虚构的软件公司，历史悠久，有多条产品线。它从盒装会计软件起家，经历客户端/服务器和 Web 产品，再到软件即服务，不同的书可以借它展示工程实践怎样一路变化。每款产品都有自己的团队：提出需求的产品和运营人员，负责各个服务的工程师，以及与他们协作的平台、安全和数据团队。Elsworne、它的产品和人员都是虚构的，提交历史和代码评审中出现的名字都属于这些虚构的团队成员。
 
 ### Projects · 项目
 
